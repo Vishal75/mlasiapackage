@@ -1,0 +1,8 @@
+Package: mlasiapackage
+Title: Custom package creation and deployment
+Version: 0.0.0.9000
+Authors@R: person("Vishal", "Virmani", , "vishalvirmani75@gmail.com", role = c("aut", "cre"))
+Description: Effort to creat custom packages in R and use OpenCPU to implement reproducible research
+Depends: R (>= 3.1.3)
+License: What license is it under?
+LazyData: true
